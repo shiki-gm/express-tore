@@ -15,7 +15,8 @@
     "express": "^4.17.1",
     "express-handlebars": "^6.0.2",
     "express-session": "^1.17.2",
-    "multiparty": "^4.2.2"
+    "multiparty": "^4.2.2",
+    "nodemon": "2.0.15"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.7.0",
